@@ -5,6 +5,10 @@ metadata:
   labels:
     app: web
 spec:
+  initContainers:
+    - name: web-init
+      image: busybox:latest
+      command: ['echo', 'init']
   containers:
     - name: nginx-non-root
       image: dmitryershov/nginx-non-root:otus
