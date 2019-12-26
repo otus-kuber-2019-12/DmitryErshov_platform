@@ -21,3 +21,7 @@
 1. Подготовка образа dmitryershov/microservices-demo:frontend
 1. Создание Pod frontend
 1. Диагностика и исправление ошибки запуска Pod frontend
+
+## kubernetes-controllers
+
+1. Добавление манифеста ReplicaSet
