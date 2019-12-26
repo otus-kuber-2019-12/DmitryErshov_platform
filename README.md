@@ -25,3 +25,4 @@
 ## kubernetes-controllers
 
 1. Добавление манифеста ReplicaSet
+1. Увеличение количества реплик до 3
