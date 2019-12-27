@@ -30,3 +30,4 @@
 в Pod'ах - нет, только после создания заново, т.к. ReplicaSet не проверяет соответствие запущенных Pod'ов шаблону.
 1. Добавление манифеста ReplicaSet для paymentservice
 1. Добавление манифеста Deployment для paymentservice
+1. Изменение тега образа на v0.0.2-paymentservice в манифесте Deployment
