@@ -35,3 +35,4 @@
 1. Стратегия Reverse Rolling Update
 1. Добавление манифеста Deployment для frontend
 1. Добавление проверки готовности
+1. Добавление манифеста DaemonSet для Prometheus node exporter
