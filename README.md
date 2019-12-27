@@ -34,3 +34,4 @@
 1. Стратегия Blue-Green
 1. Стратегия Reverse Rolling Update
 1. Добавление манифеста Deployment для frontend
+1. Добавление проверки готовности
