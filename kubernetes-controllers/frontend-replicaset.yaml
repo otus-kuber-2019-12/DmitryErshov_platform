@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: server
-        image: dmitryershov/microservices-demo:frontend
+        image: dmitryershov/microservices-demo:v0.0.2
         env:
         - name: PORT
           value: "8080"
