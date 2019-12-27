@@ -31,3 +31,4 @@
 1. Добавление манифеста ReplicaSet для paymentservice
 1. Добавление манифеста Deployment для paymentservice
 1. Изменение тега образа на v0.0.2-paymentservice в манифесте Deployment
+1. Стратегия Blue-Green
