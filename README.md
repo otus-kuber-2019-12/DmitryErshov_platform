@@ -33,3 +33,4 @@
 1. Изменение тега образа на v0.0.2-paymentservice в манифесте Deployment
 1. Стратегия Blue-Green
 1. Стратегия Reverse Rolling Update
+1. Добавление манифеста Deployment для frontend
