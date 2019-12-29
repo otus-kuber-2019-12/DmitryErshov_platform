@@ -16,3 +16,6 @@ spec:
       containers:
       - name: node-exporter
         image: prom/node-exporter
+      tolerations:
+      - key: node-role.kubernetes.io/master
+        effect: NoSchedule

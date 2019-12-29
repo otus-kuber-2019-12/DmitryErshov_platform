@@ -36,3 +36,4 @@
 1. Добавление манифеста Deployment для frontend
 1. Добавление проверки готовности
 1. Добавление манифеста DaemonSet для Prometheus node exporter
+1. Запуск Pod'ов DaemonSet на всех нодах включая master
