@@ -8,3 +8,9 @@ kind: ServiceAccount
 metadata:
   name: jane
   namespace: dev
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: ken
+  namespace: dev
