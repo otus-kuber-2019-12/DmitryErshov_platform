@@ -41,3 +41,4 @@
 ## kubernetes-security
 
 1. Добавление Service Account bob
+1. Добавление Service Account dave
