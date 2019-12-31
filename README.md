@@ -37,3 +37,18 @@
 1. Добавление проверки готовности
 1. Добавление манифеста DaemonSet для Prometheus node exporter
 1. Запуск Pod'ов DaemonSet на всех нодах включая master
+
+## kubernetes-security
+
+1. Добавление Service Account bob
+1. Добавление Service Account dave
+1. Для Service Account bob назначена роль admin в рамках кластера
+1. Добавление Namespace prometheus
+1. Добавление Service Account carol в Namespace prometheus
+1. Добавление кластерной роли view-pod для просмотра Pods всего кластера
+1. Всем Service Accounts в Namespace prometheus назначена роль view-pod в рамках кластера
+1. Добавление Namespace dev
+1. Добавление Service Account jane в Namespace dev
+1. Добавление Service Account ken в Namespace dev
+1. Для Service Account jane назначена роль admin в рамках Namespace dev
+1. Для Service Account ken назначена роль view в рамках Namespace dev
