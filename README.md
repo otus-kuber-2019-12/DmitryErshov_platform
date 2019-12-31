@@ -51,3 +51,4 @@
 1. Добавление Service Account jane в Namespace dev
 1. Добавление Service Account ken в Namespace dev
 1. Для Service Account jane назначена роль admin в рамках Namespace dev
+1. Для Service Account ken назначена роль view в рамках Namespace dev
