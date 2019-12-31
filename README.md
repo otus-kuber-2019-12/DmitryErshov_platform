@@ -42,3 +42,4 @@
 
 1. Добавление Service Account bob
 1. Добавление Service Account dave
+1. Для Service Account bob назначена роль admin в рамках кластера
