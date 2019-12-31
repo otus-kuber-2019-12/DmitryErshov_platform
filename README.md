@@ -37,3 +37,7 @@
 1. Добавление проверки готовности
 1. Добавление манифеста DaemonSet для Prometheus node exporter
 1. Запуск Pod'ов DaemonSet на всех нодах включая master
+
+## kubernetes-security
+
+1. Добавление Service Account bob
