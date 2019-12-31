@@ -48,3 +48,4 @@
 1. Добавление кластерной роли view-pod для просмотра Pods всего кластера
 1. Всем Service Accounts в Namespace prometheus назначена роль view-pod в рамках кластера
 1. Добавление Namespace dev
+1. Добавление Service Account jane в Namespace dev
