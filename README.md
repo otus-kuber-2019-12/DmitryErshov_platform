@@ -45,3 +45,4 @@
 1. Для Service Account bob назначена роль admin в рамках кластера
 1. Добавление Namespace prometheus
 1. Добавление Service Account carol в Namespace prometheus
+1. Добавление кластерной роли view-pod для просмотра Pods всего кластера
